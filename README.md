@@ -32,5 +32,5 @@ pip install -r requirements.txt
 2. Run the main app with
 
 ``
-python src/main.py worker
+python -m src worker -l info
 ``
